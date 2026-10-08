@@ -44,16 +44,6 @@ dashboard-financas-js/
 └── LICENSE
 ```
 
-## 📌 Ideias para evoluir
-
-- Gráficos de gastos por categoria
-- Modo escuro
-- Exportação para CSV
-- Edição de transações
-- Backend com Node.js
-- Banco de dados
-- Login de usuários
-
 ## 📄 Licença
 
 MIT
